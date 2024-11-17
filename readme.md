@@ -230,7 +230,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 Dzulfaqor Ali - [@dzzulfaqorr](https://instagram.com/dzzulfaqorr)
 
-Project Link: [https://github.com/dzulfaqorali196/taskflow](https://github.com/dzulfaqorali196/taskflow)
+Project Link: [https://github.com/dzulfaqorali196/Mobile-App-Taskflow-Management](https://github.com/dzulfaqorali196/taskflow)
 
 ---
 Made with ❤️ by Dzulfaqor Ali
